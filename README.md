@@ -8,7 +8,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **MERN**
 
 - 📝 I regularly write articles on [www.dayhikeing.com](www.dayhikeing.com)
 
