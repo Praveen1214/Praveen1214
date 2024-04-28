@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://retool-blog.ghost.io/blog/content/images/2022/02/gotchas-git-github-banner-1.png" /> </p>
 <h3 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=ffff&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Praveen;+An+Open+Source+Enthusiast+☀;Web+Developer+💻;Love+To+Impactful+Projects+🛠;An+Avid+Reader+📖;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffff&size=30&center=true&vCenter=true&width=550&height=40&lines=Hey+There+👋,+I'm+Praveen;+An+Open+Source+Enthusiast+☀;Web+Developer+💻;Love+To+Impactful+Projects+🛠;An+Avid+Reader+📖;">
 </h3>
 
 ---
@@ -22,7 +22,9 @@
 
 - ⚡ Fun fact **call me Luuna**
 <br>
-
+<br>
+<br>
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen1214&theme=dark&hide_border=false" />
 <br>
 <h2 style(underline🌨️)>Languages and Tools:</h2>
 
