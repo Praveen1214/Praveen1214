@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 📝 I regularly write articles on ([www.dileepapraveen.me])
+- 📝 I regularly write articles on [www.dileepapraveen.me]
 
 - 💬 Ask me about **Web Development**
 
