@@ -9,18 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen&label=Profile%20views&color=0e75b6&style=flat" alt="praveen" /> </p>
 
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-
-- 🌱 I’m currently learning **Spring Boot and React Native**
-
-- 📝 Visit my portfolio on www.dileepapraveen.me
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **dileepapraveen32@gmail.com**
-
-- ⚡ **call me Praveen**
-
 
 <br>
 <br>
